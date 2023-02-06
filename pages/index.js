@@ -48,6 +48,7 @@ export default function Home() {
                   <a
                     className="bg-gradient-to-r from-yellow-600 to-yellow-300 text-black px-4 py-2 rounded-md ml-8"
                     target="_blank"
+                    rel="noreferrer"
                     href="https://www.docdroid.net/UcoFVE6/ayushman-resume-pdf"
                   >
                     Resume
@@ -58,6 +59,7 @@ export default function Home() {
                   <a
                     className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
                     target="_blank"
+                    rel="noreferrer"
                     href="https://www.docdroid.net/UcoFVE6/ayushman-resume-pdf"
                   >
                     Resume
