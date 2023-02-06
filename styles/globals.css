@@ -24,5 +24,4 @@ a {
 }
 .clip-image {
   clip-path: inset(2% 1% 2% 1%);
-  border-radius: 2.00rem;
 }

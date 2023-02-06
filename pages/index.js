@@ -540,7 +540,7 @@ export default function Home() {
               
             <img
               src="https://leetcard.jacoblin.cool/ayushman11?theme=nord&font=Noto%20Sans&ext=activity"
-              class="h-2/3 w-2/3  object-center clip-image"
+              class="md:h-2/3 md:w-2/3 h-full w-full object-center clip-image"
             ></img>     
             
           </div>
@@ -549,7 +549,7 @@ export default function Home() {
               
               <img
                 src="https://leetcard.jacoblin.cool/ayushman11?theme=unicorn&font=Noto%20Sans&ext=activity"
-                class="h-2/3 w-2/3 border-2 object-center clip-image"
+                class="md:h-2/3 md:w-2/3 h-full w-full border-2 object-center clip-image"
               ></img>     
               
             </div>
