@@ -49,7 +49,7 @@ export default function Home() {
                     className="bg-gradient-to-r from-yellow-600 to-yellow-300 text-black px-4 py-2 rounded-md ml-8"
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.docdroid.net/UcoFVE6/ayushman-resume-pdf"
+                    href="https://drive.google.com/file/d/1KcswohW0hwR4hyPgbXaCxeu6m4po_rcj/view?usp=share_link"
                   >
                     Resume
                   </a>
@@ -60,7 +60,7 @@ export default function Home() {
                     className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.docdroid.net/UcoFVE6/ayushman-resume-pdf"
+                    href="https://drive.google.com/file/d/1KcswohW0hwR4hyPgbXaCxeu6m4po_rcj/view?usp=share_link"
                   >
                     Resume
                   </a>
@@ -167,19 +167,19 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     ReactNative
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     TypeScript
                   </a>
                 </div>
               </div>
 
               <div className="mt-2">
-                <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
+                <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
                   CSS
                 </a>
               </div>
@@ -224,24 +224,24 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     ReactJS
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     NextJS
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     HCSS
                   </a>
                 </div>
               </div>
 
               <div className="mt-2">
-                <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
+                <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
                   HTML
                 </a>
               </div>
@@ -286,19 +286,19 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     ReactNative
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     JavaScript
                   </a>
                 </div>
               </div>
 
               <div className="mt-2">
-                <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
+                <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
                   TailwindCSS
                 </a>
               </div>
@@ -345,17 +345,17 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     PhaserJS
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     Moralis
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     OnRamper
                   </a>
                 </div>
@@ -363,19 +363,19 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     JavaScript
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     CSS
                   </a>
                 </div>
               </div>
               <div className="mt-2">
-                <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
-                  html
+                <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  HTML
                 </a>
               </div>
 
@@ -419,24 +419,24 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     NextJS
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     TypeScript
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     CSS
                   </a>
                 </div>
               </div>
 
               <div className="mt-2">
-                <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
+                <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
                   HTML
                 </a>
               </div>
@@ -481,20 +481,20 @@ export default function Home() {
 
               <div className="flex mt-2 gap-2 justify-center">
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     Java
                   </a>
                 </div>
                 <div>
-                  <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
+                  <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-lg">
                     JavaScript
                   </a>
                 </div>
               </div>
 
               <div className="mt-2">
-                <a className="font-serif text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
-                  Object Oriented Programming
+                <a className="font-sans text-sm bg-gradient-to-r from-gray-600 to-gray-600 px-2 py-1 text-white rounded-md">
+                  OOP
                 </a>
               </div>
 
