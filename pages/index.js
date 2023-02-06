@@ -13,8 +13,10 @@ import { useState } from "react";
 import Typewriter from "typewriter-effect";
 import { IoMdPlanet } from "react-icons/io";
 
+
 export default function Home() {
   const [DarkMode, setDarkMode] = useState(true);
+
   return (
     <div className={DarkMode ? "dark" : ""}>
       <Head>
@@ -98,9 +100,9 @@ export default function Home() {
             </div>
 
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-300">
-              Hi there, I'm currenlty pursuing a bachelors in computer science
-              and a masters in tech management. Whether I'm working on a
-              personal project or challenging myself with LeetCode problems, I'm
+              Hi there, i'm currenlty pursuing a bachelors in computer science
+              and a masters in tech management. Whether i'm working on a
+              personal project or challenging myself with LeetCode problems, i'm
               always up for a good time with code.
             </p>
           </div>
@@ -215,7 +217,7 @@ export default function Home() {
                 Learning Platform
               </h4>
               <p className="py-2 dark:text-gray-200">
-                Blockchain learning platform perosnalised for crypto.com where
+                Blockchain learning platform personalised for crypto.com where
                 developers can learn & earn. The webapp aims to incetivise
                 developers to build projects by providing them with the
                 appropriate resources to learn and incentivisng them to build on
@@ -521,17 +523,45 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div>
-          <h1 className="text-center mt-24 mb-12 text-gray-500">
-            Made by Ayushman
-          </h1>
-          <div className="mt-10 text-white dark:text-gray-900">
-              test
+          <div className="text-center mt-12">
+            {DarkMode ? (
+              <h2 className="text-3xl py-2 animate-text bg-gradient-to-r from-teal-500 via-yellow-300 to-orange-500 bg-clip-text text-transparent md:text-4xl ">
+                Live LeetCode Stats
+              </h2>
+            ) : (
+              <h2 className="text-3xl py-2 font-medium md:text-4xl animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent ">
+                Live LeetCode Stats
+              </h2>
+            )}
           </div>
-        </div>
-        </section>
 
-        
+          {DarkMode ? (
+            <div className="mt-12 flex justify-center items-center">
+              
+            <img
+              src="https://leetcard.jacoblin.cool/ayushman11?theme=nord&font=Noto%20Sans&ext=activity"
+              class="h-2/3 w-2/3  object-center clip-image"
+            ></img>     
+            
+          </div>
+          ) : (
+            <div className="mt-12 flex justify-center items-center">
+              
+              <img
+                src="https://leetcard.jacoblin.cool/ayushman11?theme=unicorn&font=Noto%20Sans&ext=activity"
+                class="h-2/3 w-2/3 border-2 object-center clip-image"
+              ></img>     
+              
+            </div>
+          )}
+
+          <div>
+            <h1 className="text-center mt-24 mb-12 text-gray-500">
+              Made by Ayushman
+            </h1>
+            <div className="mt-10 text-white dark:text-gray-900">test</div>
+          </div>
+        </section>
       </main>
     </div>
   );
