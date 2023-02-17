@@ -100,9 +100,9 @@ export default function Home() {
             </div>
 
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-300">
-              Hi there, i'm currenlty pursuing a bachelors in computer science
-              and a masters in tech management. Whether i'm working on a
-              personal project or challenging myself with LeetCode problems, i'm
+              Hi there, I'm currently pursuing a bachelors in computer science
+              and a masters in tech management. Whether I'm working on a
+              personal project or challenging myself with LeetCode problems, I'm
               always up for a good time with code.
             </p>
           </div>
@@ -151,7 +151,7 @@ export default function Home() {
               </h2>
             )}
           </div>
-          <div className="lg:flex gap-10">
+          <div className="lg:flex lg:justify-center gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10 border-2 dark:border-orange-200">
               <div className="relative mx-auto w-20 h-20 overflow-hidden">
                 <Image src={stocks} />
@@ -329,7 +329,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="lg:flex gap-10">
+          <div className="lg:flex lg:justify-center gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10 border-2 dark:border-orange-200">
               <div className="relative mx-auto w-20 h-20 overflow-hidden">
                 <Image src={nc} />
